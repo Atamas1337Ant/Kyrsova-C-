@@ -1,0 +1,26 @@
+D:\Project\C#\graphicalWatch\graphicalWatch\bin\Debug\graphicalWatch.exe.config
+D:\Project\C#\graphicalWatch\graphicalWatch\bin\Debug\graphicalWatch.exe
+D:\Project\C#\graphicalWatch\graphicalWatch\bin\Debug\graphicalWatch.pdb
+D:\Project\C#\graphicalWatch\graphicalWatch\obj\Debug\graphicalWatch.Form1.resources
+D:\Project\C#\graphicalWatch\graphicalWatch\obj\Debug\graphicalWatch.Properties.Resources.resources
+D:\Project\C#\graphicalWatch\graphicalWatch\obj\Debug\graphicalWatch.csproj.GenerateResource.cache
+D:\Project\C#\graphicalWatch\graphicalWatch\obj\Debug\graphicalWatch.csproj.CoreCompileInputs.cache
+D:\Project\C#\graphicalWatch\graphicalWatch\obj\Debug\graphicalWatch.exe
+D:\Project\C#\graphicalWatch\graphicalWatch\obj\Debug\graphicalWatch.pdb
+D:\Project\C#\graphicalWatch\graphicalWatch\obj\Debug\graphicalWatch.csproj.AssemblyReference.cache
+D:\Project\C#\graphicalWatch\graphicalWatch\bin\Debug\Newtonsoft.Json.dll
+D:\Project\C#\graphicalWatch\graphicalWatch\bin\Debug\Newtonsoft.Json.xml
+D:\Project\C#\graphicalWatch\graphicalWatch\obj\Debug\graphicalWatch.csproj.CopyComplete
+C:\Users\atama\OneDrive\Рабочий стол\graphicalWatch\graphicalWatch\bin\Debug\graphicalWatch.exe.config
+C:\Users\atama\OneDrive\Рабочий стол\graphicalWatch\graphicalWatch\bin\Debug\graphicalWatch.exe
+C:\Users\atama\OneDrive\Рабочий стол\graphicalWatch\graphicalWatch\bin\Debug\graphicalWatch.pdb
+C:\Users\atama\OneDrive\Рабочий стол\graphicalWatch\graphicalWatch\bin\Debug\Newtonsoft.Json.dll
+C:\Users\atama\OneDrive\Рабочий стол\graphicalWatch\graphicalWatch\bin\Debug\Newtonsoft.Json.xml
+C:\Users\atama\OneDrive\Рабочий стол\graphicalWatch\graphicalWatch\obj\Debug\graphicalWatch.csproj.AssemblyReference.cache
+C:\Users\atama\OneDrive\Рабочий стол\graphicalWatch\graphicalWatch\obj\Debug\graphicalWatch.Form1.resources
+C:\Users\atama\OneDrive\Рабочий стол\graphicalWatch\graphicalWatch\obj\Debug\graphicalWatch.Properties.Resources.resources
+C:\Users\atama\OneDrive\Рабочий стол\graphicalWatch\graphicalWatch\obj\Debug\graphicalWatch.csproj.GenerateResource.cache
+C:\Users\atama\OneDrive\Рабочий стол\graphicalWatch\graphicalWatch\obj\Debug\graphicalWatch.csproj.CoreCompileInputs.cache
+C:\Users\atama\OneDrive\Рабочий стол\graphicalWatch\graphicalWatch\obj\Debug\graphicalWatch.csproj.CopyComplete
+C:\Users\atama\OneDrive\Рабочий стол\graphicalWatch\graphicalWatch\obj\Debug\graphicalWatch.exe
+C:\Users\atama\OneDrive\Рабочий стол\graphicalWatch\graphicalWatch\obj\Debug\graphicalWatch.pdb
